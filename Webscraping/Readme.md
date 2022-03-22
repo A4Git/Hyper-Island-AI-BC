@@ -1,10 +1,10 @@
 ## The goal 
 **The goal is to scrape the data from all the newsletters into an dataframe, sort only the last part of each newsletter, ie. the question:**
-![Question](q1.png)
+![Question](https://github.com/A4Git/Hyper-Island-AI-BC/blob/59f93f4e070b9356c07882ae321835bd13e23f35/Webscraping/img/q1.png)
 
 
 **The end result we are aming for is a csv file that looks like this one:**
-![Goal](bild_3.jpeg)
+![Goal](https://github.com/A4Git/Hyper-Island-AI-BC/blob/59f93f4e070b9356c07882ae321835bd13e23f35/Webscraping/img/bild_3.jpeg)
 
 
 ### The Scope
